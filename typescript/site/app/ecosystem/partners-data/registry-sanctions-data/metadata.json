@@ -1,0 +1,7 @@
+{
+  "name": "Registry & Sanctions Data",
+  "description": "KYB and compliance primitives for agents: global company resolution (GLEIF LEI, Japan corporate registry), 3-list sanctions screening (OFAC + EU + UN, 60,000+ names incl. aliases, fuzzy matching), ownership-chain screening that catches sanctioned parents behind clean subsidiaries, OSV vulnerability checks and FDA recall search. HTTP + paid MCP server. x402-native, no API key.",
+  "logoUrl": "/logos/registry-sanctions-data.svg",
+  "websiteUrl": "https://data.japanagent.dev",
+  "category": "Services/Endpoints"
+}
